@@ -1,0 +1,23 @@
+GYM MANAGEMENT SYSTEM - REQUIRED TEST SCENARIOS
+
+Successful scenarios
+1. Add a valid member (name, phone, age) -> member is created with a unique ID.
+2. Create a valid membership for an existing member -> membership is saved.
+3. Record attendance for a member with an active membership -> attendance is saved.
+
+Invalid input scenarios
+4. Add a member with age below 12 -> ValueError with a meaningful message.
+5. Add a payment with amount 0 or less -> ValueError: payment must be greater than zero.
+6. Create membership with invalid date format -> ValueError explaining YYYY-MM-DD.
+
+Business-rule violations
+7. Try to record attendance for a member without an active membership -> rejected.
+8. Try to create a second active membership for the same member -> rejected.
+
+Edge cases
+9. Search using a partial name or phone fragment -> matching members are returned.
+10. Start/end date boundary: a membership ending today is treated as Active; a membership ending yesterday is Expired.
+
+Optional extra tests
+11. Delete a member with membership records -> rejected to preserve referential integrity.
+12. Load data after closing/reopening -> previously saved JSON records are restored.

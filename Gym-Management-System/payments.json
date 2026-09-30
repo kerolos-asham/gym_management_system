@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "member_id": 1,
+        "amount": 500.0,
+        "date": "2026-09-28",
+        "type": "Cash"
+    },
+    {
+        "id": 2,
+        "member_id": 2,
+        "amount": 400.0,
+        "date": "2026-09-28",
+        "type": "Card"
+    },
+    {
+        "id": 3,
+        "member_id": 3,
+        "amount": 400.0,
+        "date": "2026-09-28",
+        "type": "Card"
+    },
+    {
+        "id": 4,
+        "member_id": 4,
+        "amount": 400.0,
+        "date": "2026-09-28",
+        "type": "Card"
+    },
+    {
+        "id": 5,
+        "member_id": 5,
+        "amount": 500.0,
+        "date": "2026-09-28",
+        "type": "Cash"
+    },
+    {
+        "id": 6,
+        "member_id": 6,
+        "amount": 520.0,
+        "date": "2026-09-28",
+        "type": "Cash"
+    },
+    {
+        "id": 7,
+        "member_id": 9,
+        "amount": 970.0,
+        "date": "2026-09-28",
+        "type": "Card"
+    },
+    {
+        "id": 8,
+        "member_id": 10,
+        "amount": 450.0,
+        "date": "2026-09-28",
+        "type": "Cash"
+    }
+]

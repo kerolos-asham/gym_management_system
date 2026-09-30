@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Kerolos",
+        "phone": "01245252894",
+        "age": 22,
+        "trainer_id": 3
+    },
+    {
+        "id": 2,
+        "name": "mina",
+        "phone": "01254792144",
+        "age": 21,
+        "trainer_id": 1
+    },
+    {
+        "id": 3,
+        "name": "youssef",
+        "phone": "01264220124",
+        "age": 21,
+        "trainer_id": 1
+    },
+    {
+        "id": 4,
+        "name": "waseem",
+        "phone": "01230254724",
+        "age": 21,
+        "trainer_id": 1
+    },
+    {
+        "id": 5,
+        "name": "mahmoud",
+        "phone": "01248123569",
+        "age": 32,
+        "trainer_id": 2
+    },
+    {
+        "id": 6,
+        "name": "hassan",
+        "phone": "01134250127",
+        "age": 25,
+        "trainer_id": 1
+    },
+    {
+        "id": 7,
+        "name": "hessen",
+        "phone": "01112023487",
+        "age": 27,
+        "trainer_id": 3
+    },
+    {
+        "id": 8,
+        "name": "ali",
+        "phone": "01001325548",
+        "age": 19,
+        "trainer_id": 2
+    },
+    {
+        "id": 9,
+        "name": "kareem",
+        "phone": "01524201563",
+        "age": 36,
+        "trainer_id": 3
+    },
+    {
+        "id": 10,
+        "name": "hassan",
+        "phone": "01255230124",
+        "age": 29,
+        "trainer_id": 2
+    }
+]

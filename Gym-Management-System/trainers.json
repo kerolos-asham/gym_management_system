@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Cap Jak",
+        "phone": "01021356621",
+        "specialization": "General training"
+    },
+    {
+        "id": 2,
+        "name": "Cap Jemy",
+        "phone": "01120125847",
+        "specialization": "Cardio"
+    },
+    {
+        "id": 3,
+        "name": "Cap hossam",
+        "phone": "01235201450",
+        "specialization": "Functional Training / Crossfit"
+    }
+]
